@@ -67,5 +67,13 @@ Font sizes were chosen with the help of a type scale visual calculator. The calc
 ### *Images*
 The images used on the site were taken from unsplash, a website that provides royalty free images and Dribbble, a website that showcases creative work from design professionals. The high-resolution images were selected to suit the theme of the site. Adobe Photoshop was used to crop and resize the images. 
 
+# 3. Accessibility
+There are several accessibility best practices used in the design of this website. The first of these is colour contrast, specifically the contrast between text colour and its background. This contrast was considered when choosing an appropriate colour palette at the start of the project. The colours were also run through an online accessibility colour checker to ensure they complied.
+
+The second aspect that was considered was the effective visual focus indicators. To ensure optimal visual focus, the hover state colours were reused for the focus colours, text decoration: underline was used in certain areas and both background-colour and text-colour were also used to create a much more accessible site.
+
+The third area that was considered was the image media text equivalent or ‘ALT’ text. This was to ensure users using screen readers can effectively hear what images are on the site.
+
+
 
 
