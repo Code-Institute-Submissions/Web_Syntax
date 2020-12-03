@@ -1,6 +1,9 @@
 # Web Syntax
+
 #### A web consultancy
+
 ![](assets/imgs/Logo_16x9_white.png)
+
 # Table of contents
 ## 1. Project Overview
 ## 2. UX
@@ -86,9 +89,22 @@ The use of semantic HTML was deemed critical from the outset.  This was to provi
 
 # 5. Features
 
-## *Existing features*
+## *5.1 Existing features*
 * Navigation bar at the top of each page that allows users to navigate through the site.
 * Hyperlinks in the navigation of the website that redirect the user to the appropriate page of information.
 * Social media links that redirect the user to the company’s social media site pages.
 * Contact form that allows the user to fill out their personal contact details and send a query.
 * The site uses Google Maps API for directions to the business. (It’s a Google Maps developer version so the user will not have full use of the service)
+
+## *5.2 Features still to implement*
+* User log in for customer accounts
+* Mailchimp API integration for newsletter mailing list
+
+# 6. Technologies
+
+## *6.1 Software*
+* [Balsamiq wireframes to produce low fidelity wireframes](https://balsamiq.com/)
+* [Adobe XD to produce high fidelity prototype and carry out user testing](https://www.adobe.com/products/xd.html#)
+* [Adobe Illustrator to create SVG files and the individual personas](https://www.adobe.com/lu_en/products/illustrator.html#)
+* [Adobe Photoshop to edit project images](https://www.adobe.com/ie/products/photoshop.html#)
+
