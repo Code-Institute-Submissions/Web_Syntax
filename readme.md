@@ -36,3 +36,12 @@ The goal of this project was to create a website for a web consultancy called We
 
 ## *2.2 UX research and persona creation*
 Research was carried out to identify the specific target users of the site. Three user types were identified, and an individual persona was created for each type. The aim of the personas was to help understand the users’ needs, experiences, behaviours and goals.
+
+## *2.3 User Stories*
+* As a user, I want to be informed about what services the company provides.
+* As a user, I want to know the pricing for services provided.
+* As a user, I want to see examples of previous work.
+* As a user, I want to be able to view the company’s social media pages.
+* As a user, I want to be able to make an enquiry about potential services.
+
+
