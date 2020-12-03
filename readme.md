@@ -25,4 +25,14 @@
 # 1. Project Overview 
 The goal of this project was to create a website for a web consultancy called Web Syntax. Web Syntax is a consultancy that provides services such as web design, re-design and internet marketing strategies. They aim to target businesses with poor online presence and provide them with the knowledge to fully understand what they need to drive an adequate level of website traffic and conversion.
 
+# 2. UX
+## *2.1 Design Process*
+* UX research and persona creation
+* Low fidelity wireframing
+* High fidelity prototyping
+* Accessibility
+* User testing
+* Web development
 
+## *2.2 UX research and persona creation*
+Research was carried out to identify the specific target users of the site. Three user types were identified, and an individual persona was created for each type. The aim of the personas was to help understand the users’ needs, experiences, behaviours and goals.
