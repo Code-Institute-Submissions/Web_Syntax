@@ -80,4 +80,15 @@ The third area that was considered was the image media text equivalent or ‘ALT
 To ensure the correct information is being conveyed to the search engine and to make the website more SEO friendly, several specific meta tags were added.
 
 ## *4.2 Semantic HTML*
+The use of semantic HTML was deemed critical from the outset.  This was to provide assistive technology with functionality and easy access to page content. It also ensured that search engines could index the content efficiently and in turn provide an improved SEO ranking. The content of the website was Initially broken down into primary and secondary content. This helped to create an initial document outline and assign a hierarchy for the elements. 
 
+## *4.3 Image sizing*
+
+# 5. Features
+
+## *Existing features*
+* Navigation bar at the top of each page that allows users to navigate through the site.
+* Hyperlinks in the navigation of the website that redirect the user to the appropriate page of information.
+* Social media links that redirect the user to the company’s social media site pages.
+* Contact form that allows the user to fill out their personal contact details and send a query.
+* The site uses Google Maps API for directions to the business. (It’s a Google Maps developer version so the user will not have full use of the service)
