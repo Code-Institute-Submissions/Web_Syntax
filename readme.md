@@ -44,4 +44,28 @@ Research was carried out to identify the specific target users of the site. Thre
 * As a user, I want to be able to view the company’s social media pages.
 * As a user, I want to be able to make an enquiry about potential services.
 
+## *2.4 Low fidelity wireframing*
+Balsamiq wireframe software was used to create rough website layouts that were shared with the client. This allowed me to explore several different design options before deciding on a final design structure. The planning was carried out with responsive design in mind, starting with mobile first and graduating to desktop screen size.
+
+Included wireframes:
+* Mobile
+* Tablet
+* Desktop
+
+## *2.5 High fidelity prototype*
+The high-fidelity process was started by creating mood boards to get inspiration for the feel, look and mood of the design. The hi-fi prototypes cover not only the user interface (UI) of the product in terms of visuals and aesthetics, but also the user experience (UX) aspects in terms of interactions, user flow and behaviour.
+
+## *2.5 Design choices*
+To get design ideas for this site, mood boards were created from content on three sites, Dribble, Niice and Behance. The aim was to design a website that was both aesthetically pleasing and user friendly.    
+
+### *Colour Scheme*
+The colour palette for the websites theme was inspired by a combination of themes on Color Hunt. Color Hunt is a website that suggests different colour palettes that go well together.
+
+### *Fonts*
+Font sizes were chosen with the help of a type scale visual calculator. The calculator provided an appropriate progression of font sizes.
+
+### *Images*
+The images used on the site were taken from unsplash, a website that provides royalty free images and Dribbble, a website that showcases creative work from design professionals. The high-resolution images were selected to suit the theme of the site. Adobe Photoshop was used to crop and resize the images. 
+
+
 
