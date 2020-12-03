@@ -74,6 +74,10 @@ The second aspect that was considered was the effective visual focus indicators.
 
 The third area that was considered was the image media text equivalent or ‘ALT’ text. This was to ensure users using screen readers can effectively hear what images are on the site.
 
+# 4. Web Development 
 
+## *4.1 MetaData*
+To ensure the correct information is being conveyed to the search engine and to make the website more SEO friendly, several specific meta tags were added.
 
+## *4.2 Semantic HTML*
 
