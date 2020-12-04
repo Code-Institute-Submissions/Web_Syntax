@@ -147,3 +147,68 @@ The initial testing phase started by publishing the Adobe XD prototype. A link w
 * Attribute < img not allowed on element section at this point.
 * Attribute alt not allowed on element section at this point.
 
+### *Browsers*
+The website was tested on the four most used browsers Chrome, Safari, Internet Explorer and Firefox, according to [W3Counter](https://www.w3counter.com/globalstats.php).  There were minimal differences between the browsers. The CSS style backdrop-filter doesn’t seem to be supported on any browser other than Chrome.
+
+### *Responsivness*
+Responsive design is used throughout this website. This was achieved with a combination of Bootstrap, CSS Grid, CSS Flexbox and media queries. The media queries changed the screen layout as the screen size changed.
+
+### *Form Validation*
+The contact form was designed with in-built validation. The HTML ‘required’ property was used to create mandatory fields in the form.  By catching invalid data on the client-side, the user can fix it straight away.
+
+# 8. Bugs
+
+# 9. Deployment
+Web Syntax was developed in VS Code and I used Git for version control on my local server. It was later pushed into a repository on GitHub. The website was deployed both on GitHub Pages and my own personal domain. The steps taken for deployment are as follows;
+
+## *9.1 GitHub Pages*
+* Opened up GitHub in the browser.
+* Signed in using username and password.
+* Selected my repositories.
+* Navigated to Web Syntax.
+* In the top navigation clicked settings.
+* Scrolled down to the GitHub Pages area.
+* Selected Master Branch from the Source dropdown menu.
+* Clicked to confirm my selection.
+* The site is now live on GitHub Pages
+
+## *9.2 Personal Domain*
+* The site is also hosted on my own personal domain (www.websyntax.co.uk).
+* The domain name was registered on Register365.com.
+* The site is hosted by HostGator.
+* The HostGator nameservers were added to my Regisister365 account.
+* All files the added to my HostGator file manager.
+
+# 10. Credits
+## *10.1 MetaData*
+1. MDN web docs - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+2. Joelonsoftware.com - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+   
+## *10.2 Semantic HTML elements*
+1. W3.org - https://www.w3.org/TR/2012/WD-html-markup-20121025/elements-by-function.html
+
+## *10.3 Favicon*
+1. Manytools.org - https://manytools.org/http-html-text/favicon-generator/
+   
+## *10.4 Accessibility*
+1. WebAIM Colour Contrast Checker - https://webaim.org/resources/contrastchecker/
+2. W3C Accessibility - https://www.w3.org/standards/webdesign/accessibility
+
+## *10.5 Design Inspiration*
+1. Behance - https://www.behance.net/
+2.  Niice - https://niice.co/
+3.	Dribble - https://dribbble.com/
+
+## *10.6 Colour Palette*
+1. Color Hunt - https://colorhunt.co/
+
+## *10.7 Images*
+1.	Unsplash - https://unsplash.com/t/nature
+2.	Pexels - https://www.pexels.com/
+3. Dribbble - https://dribbble.com/
+
+## *10.8 Fonts*
+1.	Type Scale - https://type-scale.com/
+2.	Google Fonts - https://fonts.google.com/
+
+## *10.9 Content*
