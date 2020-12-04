@@ -103,8 +103,47 @@ The use of semantic HTML was deemed critical from the outset.  This was to provi
 # 6. Technologies
 
 ## *6.1 Software*
-* [Balsamiq wireframes to produce low fidelity wireframes](https://balsamiq.com/)
-* [Adobe XD to produce high fidelity prototype and carry out user testing](https://www.adobe.com/products/xd.html#)
-* [Adobe Illustrator to create SVG files and the individual personas](https://www.adobe.com/lu_en/products/illustrator.html#)
-* [Adobe Photoshop to edit project images](https://www.adobe.com/ie/products/photoshop.html#)
+* [Balsamiq wireframes to produce low fidelity wireframes.](https://balsamiq.com/)
+* [Adobe XD to produce high fidelity prototype and carry out user testing.](https://www.adobe.com/products/xd.html#)
+* [Adobe Illustrator to create SVG files and the individual personas.](https://www.adobe.com/lu_en/products/illustrator.html#)
+* [Adobe Photoshop to edit project images.](https://www.adobe.com/ie/products/photoshop.html#)
+* [Visual Studio Code text editor to write my development code in.](https://code.visualstudio.com/)
+
+## *6.2 Languages*
+* HTML
+* CSS
+* JavaScript
+* jQuery
+
+## *6.3 Tools & Libraries*
+* Google fonts CDN
+* Font Awesome CDN
+* Bootstrap
+* Git
+* Google Maps API
+
+# 7. Testing
+
+## *7.1 Prototype testing*
+The initial testing phase started by publishing the Adobe XD prototype. A link was the sent via email to a group of selected users who tested the website and later provided feedback on the performance. Amendments were made based on the user feedback.
+
+## *7.2 Web development testing
+
+### *Validators*
+* Html mark-up and CSS styles were validated using the W3C Markup validator.
+* The initial testing phase started by publishing the Adobe XD prototype. A link was the sent via email to a group of selected users who tested the website and later provided feedback on the performance. Amendments were made based on the user feedback. 
+* AcChecker was used to check the overall accessibility of the HTML.
+
+### *Corrected Warnings*
+* Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+* Article lacks heading. Consider using h2-h6 elements to add identifying headings to all articles.
+* Consider using the h1 element as a top-level heading only (all h1 elements are treated as top-level headings by many screen readers and other tools).
+
+### *Corrected Errors*
+* No space attributes.
+* The value of the for attribute of the label element must be the ID of a non-hidden form control.
+* Saw < when expecting an attribute name. Probable cause: Missing > immediately before.
+* Duplicate attribute class.
+* Attribute < img not allowed on element section at this point.
+* Attribute alt not allowed on element section at this point.
 
