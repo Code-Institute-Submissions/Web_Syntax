@@ -1058,3 +1058,22 @@ p.start-from {
         height: 20rem;
     }
 }
+
+@media only screen and (max-width: 1160px) {
+
+    .s4-card1, .s4-card2, .s4-card3, .s4-card4 {
+        text-align: center;
+        position: absolute;
+        width: 50vw;
+        height: 50vw;
+        top: 20%;
+        right: 25%;
+        padding: 0;
+    }
+
+    img.d-block {
+        width: 50rem;
+        display: none !important;
+    }
+
+}
