@@ -251,3 +251,88 @@ img.s2-img {
     height: 100%;
 }
 
+/* ----------Section 4---------- */
+.mc-section-4 {
+    grid-row: 5 / 6;
+    box-shadow: 
+    inset 0px 60px 30px -60px rgb(82, 82, 82),
+    inset 0px -50px 30px -60px rgb(82, 82, 82);
+    width: 100vw;
+}
+
+.carousel-item {
+    height: 60rem;
+    position: relative; 
+}
+
+.s4-card1, .s4-card2, .s4-card3, .s4-card4 {
+    position: absolute;
+    bottom: 0;
+    right: 20%;
+    padding-bottom: 20rem;
+}
+
+.mc-section-4 h1 {
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+
+.s4-card1 ul, .s4-card2 ul, .s4-card3 ul, .s4-card4 ul {
+    list-style-type: none;
+}
+
+p.package {
+    font-size: 1.2rem;
+    padding: 1rem 0 1rem 0;
+}
+
+p.start-from {
+    font-size: 0.875rem;
+    margin: 3rem 0 0 0;
+}
+
+p.price {
+    font-size: 1.8rem;
+    color: rgb(255, 174, 23);
+    font-weight: 500;
+}
+
+.carousel-control-next-icon {
+    background-image: url(../imgs/Arrow.svg) !important;
+    background-size: 20px 20px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../imgs/Arrow.svg) !important;
+    background-size: 20px 20px;
+    transform: rotate(180deg);
+}
+
+.d-block.w-100.c1 {
+    position: absolute;
+    bottom: 7.5rem;
+    left: 15%;
+    padding-bottom: 14rem;
+    width: 600px !important;
+}
+
+.d-block.w-100.c2 {
+    position: absolute;
+    top: 18rem;
+    left: 15%;
+    width: 600px !important;
+}
+
+.d-block.w-100.c3 {
+    width: 200px !important;
+    position: absolute;
+    left: 25%;
+    top: 24rem;
+}
+
+.d-block.w-100.c4 {
+    position: absolute;
+    top: 16rem;
+    left: 15%;
+    width: 600px !important;
+}
