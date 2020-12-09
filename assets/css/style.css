@@ -579,3 +579,31 @@ p.t-p {
     width: 2.5rem;
 }
 
+@media only screen and (max-width: 1550px) {
+    /* ----------General---------- */
+    .site {
+       grid-template-rows: 50rem 31.25rem 43.75rem 21.875rem 46rem 56.25rem 68.75rem 10rem;
+   }
+
+   /* ----------Header---------- */
+   .brand-statement {
+       grid-column: 2 / 4;
+       grid-row: 2 /3;
+       z-index: 10;
+       margin: 16rem 0 0 10rem;
+       color: var(--color-6);
+       font-size: 1.2rem;
+   }
+   
+   .brand-tagline {
+       grid-column: 2 / 4;
+       grid-row: 2 /3;
+       z-index: 5;
+       margin: 0 0 0 10rem;
+       padding-top: 2rem;
+       font-size: 4.5rem;
+       font-weight: bold;
+       color: var(--color-6);
+       font-family: 'Lora', serif;
+       overflow:  hidden;
+   }
