@@ -1184,3 +1184,110 @@ p.start-from {
 .s3-ss2 h2, .s3-ss4 h2 {
     padding-top: 4rem;
 }
+
+/* ---------Section 5---------- */
+.mc-section-5 {
+    grid-row: 5 / 6;
+    display: flex;
+    flex-direction: column;
+}
+
+.s5-ss6 {
+    height: 25rem;
+    order: 1;
+}
+
+.s5-ss1 p, .s5-ss2 p, .s5-ss3 p, .s5-ss4 p, .s5-ss5 p {
+    margin: 0 auto;
+}
+
+.s5-ss1, .s5-ss2, .s5-ss3, .s5-ss4, .s5-ss5 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    height: 17.5rem;
+} 
+
+.s5-ss1 {
+    height: 8.75rem;
+    order: 2;
+    margin-top: 3rem;
+}
+
+.s5-ss2 {
+    height: 19.688rem;
+    order: 3;
+}
+
+.s5-ss3 {
+    height: 19.688rem;
+    order: 4;
+}
+
+.s5-ss4 {
+    height: 19.688rem;
+    order: 5;
+}
+
+.s5-ss5 {
+    height: 19.688rem;
+    order: 6;
+}
+
+.s5-icon {
+    margin: 0;
+    padding: 2rem 0 0 0;
+}
+
+/* ---------Section 4---------- */
+.mc-section-4 {
+    grid-row: 6 / 7;
+}
+
+.carousel-item {
+    height: 28.125rem;
+}
+
+/* ---------Section 6---------- */
+.mc-section-6 {
+    justify-content: center;
+}
+.s6-ss3 {
+    width: 90%;
+    height: 53.125rem;
+    padding: 0;
+    margin: 5rem auto 0 auto;
+}
+
+.s6-ss3 h1 {
+    font-size: var(--font-size-xl);
+}
+
+.s6-ss3 input {
+    height: 50px;
+    padding: 0.688rem;
+}
+
+.s6-ss3 select {
+    padding: 0.688rem;
+    height: 3rem;
+}
+
+.s6-ss1 {
+    height: 21.875rem;
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.s6-ss2 {
+    height: 31.25rem;
+    padding: 0;
+    margin: 0 auto;
+    width: 90%;
+}
+
+#map {
+    width: 100%;
+}
+}
