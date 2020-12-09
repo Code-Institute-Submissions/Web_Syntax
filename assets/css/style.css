@@ -199,3 +199,55 @@ img.s2-img {
     padding: 0;
 }
 
+/* ----------Section 3---------- */
+.mc-section-3 {
+    grid-row: 4 / 5;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    background: var(--color-2);
+    width: 100vw;
+}
+
+.mc-section-3 h1, .mc-section-3 h2, .mc-section-3 p {
+    padding-top: 1.2rem;
+    margin: 0;
+}
+
+.mc-section-3 h1 {
+    font-size: var(--font-size-l);
+    color: var(--color-6);
+}
+
+.mc-section-3 h2 {
+    font-size: var(--font-size-s);
+    color: var(--color-1);
+}
+
+.mc-section-3 p {
+    font-size: var(--font-size-s);
+    color: var(--color-6);
+}
+
+.s3-ss1 {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    overflow: hidden;
+}
+
+.s3-ss3 {
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+    overflow: hidden;
+}
+
+.s3-ss2, .s3-ss4 {
+    margin-top: 2.6rem;
+    width: 18.75rem;
+    margin: auto;
+}
+
+.s3-ss1 img, .s3-ss3 img {
+    height: 100%;
+}
+
