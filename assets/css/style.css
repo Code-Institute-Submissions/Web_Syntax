@@ -1110,3 +1110,77 @@ p.start-from {
        font-family: 'Lora', serif;
        overflow:  hidden;
    }
+
+   /* ---------Section 1---------- */
+   .mc-section-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.s1-card {
+    width: 100vw;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.s1-card p {
+    margin: 0;
+    padding: 0 0 1rem 0;
+    width: 75%;
+}
+
+.s1-card h2 {
+    margin: 0;
+    padding: 1rem 0 1rem 0;
+}
+
+.s1-card img {
+    margin: 1rem 0 0 0;
+    padding: 0;
+}
+
+/* ---------Section 2---------- */
+.mc-section-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.s2-ss1 {
+    width: 100%;
+    height: 25rem;
+} 
+
+.s2-ss2, .s2-ss3, .s2-ss4 {
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+    width: 75%;
+    height: 18.75rem;
+}
+
+.s2-ss2 {
+    padding-top: 3rem;
+}
+
+.s2-ss3, .s2-ss4 {
+    padding-bottom: 3rem;
+}
+
+/* ---------Section 3---------- */
+
+.mc-section-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.s3-ss1, .s3-ss2, .s3-ss3, .s3-ss4 {
+    height: 21.875rem;
+}
+
+.s3-ss2 h2, .s3-ss4 h2 {
+    padding-top: 4rem;
+}
