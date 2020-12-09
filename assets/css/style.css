@@ -538,3 +538,44 @@ form p {
     border: 1px solid #F2F0F0;
     color: #F2F0F0;
 }
+
+/* ----------Footer---------- */
+
+footer {
+    grid-row: 8 / 9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-4);
+    width: 100vw;
+}
+
+footer a, footer p {
+    font-size: var(--font-size-xs);
+}
+
+.ftr-ss1 {
+    text-align: center
+}
+
+.ftr-ss1 p {
+    color: var(--color-6);
+}
+
+p.t-p {
+    margin: 1rem 0 0 0;
+}
+
+.ftr-ss1 a {
+    color: var(--color-6);
+}
+
+.ftr-ss1 span {
+    color: #000;
+}
+
+.ftr-ss1 img {
+    margin: 2rem .6rem 0 .6rem;
+    width: 2.5rem;
+}
+
