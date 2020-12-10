@@ -1,8 +1,23 @@
 /* ----------General---------- */
+:root {
+  --font-size-xxl: 1.953rem;
+  --font-size-xl: 1.563rem;
+  --font-size-l: 1.25rem;
+  --font-size-m: 1rem;
+  --font-size-s: 0.8rem;
+  --font-size-xs: 0.64rem;
+  --color-1: #FF214F;
+  --color-2: #1A1A1A;
+  --color-3: #272727;
+  --color-4: #404040;
+  --color-5: #808080;
+  --color-6: #F3F3F3;
+}
+
 html, body {
   margin:0;
   padding:0;
-  height:6950px;
+  height: 7000px;
 }
 
 body {
@@ -126,7 +141,7 @@ footer {
   width: 100vw;
 }
 
-footer a, footer p {
+footer#footer a, footer#footer p {
   font-size: var(--font-size-xs);
 }
 
@@ -144,6 +159,7 @@ p.t-p {
 
 .ftr-ss1 a {
   color: var(--color-6);
+  font-size: var(--font-size-xs);
 }
 
 .ftr-ss1 span {
@@ -154,7 +170,3 @@ p.t-p {
   margin: 2rem .6rem 0 .6rem;
   width: 2.5rem;
 }
-
-
-
-

@@ -1,4 +1,4 @@
-/* ----------General---------- */
+
 /* ----------General---------- */
 :root {
     --font-size-xxl: 1.953rem;
@@ -554,7 +554,7 @@ footer {
     width: 100vw;
 }
 
-footer a, footer p {
+footer#footer a, footer#footer p {
     font-size: var(--font-size-xs);
 }
 
@@ -572,6 +572,7 @@ p.t-p {
 
 .ftr-ss1 a {
     color: var(--color-6);
+    font-size: var(--font-size-xs);
 }
 
 .ftr-ss1 span {
