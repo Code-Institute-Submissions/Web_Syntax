@@ -1,0 +1,160 @@
+/* ----------General---------- */
+html, body {
+  margin:0;
+  padding:0;
+  height:6950px;
+}
+
+body {
+  min-height:100%;
+  position:relative;
+}
+
+footer {
+  position:absolute;
+   bottom:0;
+   width:100%;
+}
+
+/* ----------Header---------- */
+.header {
+  overflow: hidden;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.4);
+  background-position: center;
+  background-size: cover;
+}
+
+a.nav-link.hover {
+  text-align: center;
+  margin: 0 .5rem;
+  color: var(--color-6) !important;
+  text-decoration: none;
+  padding: 0 !important;
+  letter-spacing: 2px;
+}
+.hover {
+  display: inline-block;
+  position: relative;
+}
+
+.hover::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-1);
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover:hover::before {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+/* <-----------------Main Content-----------------> */
+
+.privacy-policy-content a {
+  color: #000;
+  text-decoration: underline;
+}
+
+.privacy-policy-content {
+  height: 5200px;
+}
+
+.legal-main-content {
+  height: 700px;
+}
+
+.terms-content {
+  height: 2100px;
+}
+
+table {
+  margin-bottom: 25px;
+}
+
+table th {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+table td {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 28px;
+  margin: 80px 0 25px 0;
+  font-weight: bolder ;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+ul, ol {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+/* ----------Footer---------- */
+
+footer {
+  grid-row: 8 / 9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--color-4);
+  width: 100vw;
+}
+
+footer a, footer p {
+  font-size: var(--font-size-xs);
+}
+
+.ftr-ss1 {
+  text-align: center
+}
+
+.ftr-ss1 p {
+  color: var(--color-6);
+}
+
+p.t-p {
+  margin: 1rem 0 0 0;
+}
+
+.ftr-ss1 a {
+  color: var(--color-6);
+}
+
+.ftr-ss1 span {
+  color: #000;
+}
+
+.ftr-ss1 img {
+  margin: 2rem .6rem 0 .6rem;
+  width: 2.5rem;
+}
+
+
+
+

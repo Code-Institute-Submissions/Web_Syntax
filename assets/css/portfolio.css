@@ -47,40 +47,21 @@ h2 {
 
 /* ----------Header---------- */
 .header {
-    grid-row: 1 / 2;
-    display: grid;
-    grid-template-columns: 10% 1fr 1fr 1fr 10%;
-    grid-template-rows: 4.375rem;
     overflow: hidden;
     width: 100vw;
+    background: rgba(0, 0, 0, 0.4);
     background-position: center;
     background-size: cover;
-}
-
-img.brand-img {
-    width: 75px;
 }
 
 a.nav-link.hover {
     text-align: center;
     margin: 0 .5rem;
-    
-}
-
-a.brand {
-    margin-left: 10%;
-}
-
-a.nav-link.hover {
-    color: var(--color-2) !important;
+    color: var(--color-6) !important;
     text-decoration: none;
+    padding: 0 !important;
+    letter-spacing: 2px;
 }
-
-nav a:hover {
-    text-decoration: none;
-    color: var(--color-1);;
-}
-
 .hover {
     display: inline-block;
     position: relative;
@@ -104,74 +85,25 @@ nav a:hover {
     transform-origin: bottom left;
 }
 
-nav.navbar {
-    display: inline-flex;
-    justify-content: flex-end;
-    align-items: center;
-    grid-column: 1 / 6;
-    grid-row: 1 / 2;
-    z-index: 5;
-}
+/* ----------Portfolio Images---------- */
 
-.navbar-nav.ml-auto.mt-lg-0 {
-    margin-right: 10% !important;
+pre {
+    display: none;
 }
-
-.navbar-toggler {
-    margin-right: 10%;
-}
-
-li.nav-item {
-    margin-left: auto !important;
-    margin-top: 1rem !important;
-}
-
-.nav-list {
-    padding: 0;
-    margin: 0; 
-}
-
- a.nav-link {
-    display: inline-flex;
-    list-style-type: none; 
-    margin: 0 .5rem 0 .5rem;
-    color: var(--color-2) !important;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-    padding: 0 !important;
-}
-
-/* ----------Main Content---------- */
-.mc-section-1 {
-    text-align: center;
-    margin: 3rem auto;
-}
-
-.mc-section-1 h1 {
-    font-size: 38px;
-}
-
-.mc-section-1 h2 {
-    font-size: 20px;
-}
-
-.mc-section-2 {
-    display: grid;
-    grid-template-columns: 18vw 1fr 1fr 18vw;
-    grid-template-rows: 25rem 25rem 25rem 25rem 25rem;
-    grid-gap: 2rem;
-    margin: 2rem auto;
+.jumbotron {
+    margin: 0;
 }
 
 .card {
-    height: 400px;
-    width: 400px;
     border-radius: 2rem;
-    position: relative;
+}
+
+.card-img-top {
+    border-radius: 2rem;
 }
 
 .overlay {
-    position: absolute;
+    position: absolute !important;
     top: 0;
     left: 0;
     width: 100%;
@@ -208,84 +140,6 @@ li.nav-item {
     font-weight: bold;
 }
 
-/* ----------Portfolio Images---------- */
-
-.mc-section-2 img {
-    height: 100%;
-    width: auto;
-    border-radius: 2rem;
-}
-
-.c1 {
-    grid-row: 1 / 2;
-    grid-column: 2 / 3;
-    /* background-image: url(../imgs/website1.webp);
-    background-size: cover; */
-}
-
-.c2 {
-    grid-row: 1 / 2;
-    grid-column: 3 / 4;
-    /* background-image: url(../imgs/website2.webp);
-    background-size: cover; */
-}
-
-.c3 {
-    grid-row: 2 / 3;
-    grid-column: 2 / 3;
-    /* background-image: url(../imgs/website3.webp);
-    background-size: cover; */
-}
-
-.c4 {
-    grid-row: 2 / 3;
-    grid-column: 3 / 4;
-    /* background-image: url(../imgs/website4.webp);
-    background-size: cover; */
-}
-
-.c5 {
-    grid-row: 3 / 4;
-    grid-column: 2 / 3;
-    /* background-image: url(../imgs/website5.webp);
-    background-size: cover; */
-}
-
-.c6 {
-    grid-row: 3 / 4;
-    grid-column: 3 / 4;
-    /* background-image: url(../imgs/website6.webp);
-    background-size: cover; */
-}
-
-.c7 {
-    grid-row: 4 / 5;
-    grid-column: 2 / 3;
-    /* background-image: url(../imgs/website7.webp);
-    background-size: cover; */
-}
-
-.c8 {
-    grid-row: 4 / 5;
-    grid-column: 3 / 4;
-    /* background-image: url(../imgs/website8.webp);
-    background-size: cover; */
-}
-
-.c9 {
-    grid-row: 5 / 6;
-    grid-column: 2 / 3;
-    /* background-image: url(../imgs/website9.webp);
-    background-size: cover; */
-}
-
-.c10 {
-    grid-row: 5 / 6;
-    grid-column: 3 / 4;
-    /* background-image: url(../imgs/website10.webp);
-    background-size: cover; */
-}
-
 /* ----------Footer---------- */
 
 footer {
@@ -293,7 +147,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--color-5);
+    background: var(--color-4);
     width: 100vw;
 }
 
@@ -325,3 +179,4 @@ p.t-p {
     margin: 2rem .6rem 0 .6rem;
     width: 2.5rem;
 }
+
