@@ -52,7 +52,7 @@ h2 {
 .header {
     overflow: hidden;
     width: 100vw;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../imgs/img-01.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../imgs/img-01_16x9_2500w.jpg');
     background-position: center;
     background-size: cover;
 }

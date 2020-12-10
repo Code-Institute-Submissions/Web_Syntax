@@ -87,6 +87,10 @@ a.nav-link.hover {
 
 /* ----------Portfolio Images---------- */
 
+.btn-primary {
+    letter-spacing: 2px;
+}
+
 pre {
     display: none;
 }
