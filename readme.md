@@ -157,6 +157,26 @@ Responsive design is used throughout this website. This was achieved with a comb
 The contact form was designed with in-built validation. The HTML ‘required’ property was used to create mandatory fields in the form.  By catching invalid data on the client-side, the user can fix it straight away.
 
 # 8. Bugs
+There were several bugs encountered throughout the development of this project. There were three tools that were key to fixing these issues. Chrome developers’ tools, Firefox developers’ tools and VS Codes linter extension. Below are some of the bugs encountered;
+
+## *During development*
+* Bootstrap Navbar
+    * Issue with positioning the brand logo
+    * Issue with link hover animation
+* Bootstrap carousel
+    * Issues centring content
+    * Issues changing the slider control icons
+* Hero image
+    * Issues with positioning the hero image
+* Portfolio image alignment
+    * Used bootstrap cards to solve the issue
+
+## *During testing*
+* HTML validation
+    * Several sections were flagged as a warning by the HTML validator because the were missing headings. I ignore these because I didn’t consider this a major issue.
+
+
+
 
 # 9. Deployment
 Web Syntax was developed in VS Code and I used Git for version control on my local server. It was later pushed into a repository on GitHub. The website was deployed both on GitHub Pages and my own personal domain. The steps taken for deployment are as follows;

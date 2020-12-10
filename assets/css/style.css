@@ -297,7 +297,7 @@ p.start-from {
 
 p.price {
     font-size: 1.8rem;
-    color:#FF214F;
+    color: var(--color-1);
     font-weight: 500;
 }
 
