@@ -62,7 +62,10 @@ The high-fidelity process was started by creating mood boards to get inspiration
 To get design ideas for this site, mood boards were created from content on three sites, Dribble, Niice and Behance. The aim was to design a website that was both aesthetically pleasing and user friendly.    
 
 ### *Colour Scheme*
-The colour palette for the websites theme was inspired by a combination of themes on Color Hunt. Color Hunt is a website that suggests different colour palettes that go well together.
+
+![](assets/imgs/Color_Palette.png)
+
+The colour palette for the websites theme was inspired by a combination of themes on [Color Hunt](https://https://colorhunt.co). Color Hunt is a website that suggests different colour palettes that go well together.
 
 ### *Fonts*
 Font sizes were chosen with the help of a type scale visual calculator. The calculator provided an appropriate progression of font sizes.
@@ -105,7 +108,7 @@ The use of semantic HTML was deemed critical from the outset.  This was to provi
 ## *6.1 Software*
 * [Balsamiq wireframes to produce low fidelity wireframes.](https://balsamiq.com/)
 * [Adobe XD to produce high fidelity prototype and carry out user testing.](https://www.adobe.com/products/xd.html#)
-* [Adobe Illustrator to create SVG files and the individual personas.](https://www.adobe.com/lu_en/products/illustrator.html#)
+* [Adobe Illustrator to createbrand logo, SVG images and the individual personas.](https://www.adobe.com/lu_en/products/illustrator.html#)
 * [Adobe Photoshop to edit project images.](https://www.adobe.com/ie/products/photoshop.html#)
 * [Visual Studio Code text editor to write my development code in.](https://code.visualstudio.com/)
 
@@ -176,8 +179,6 @@ There were several bugs encountered throughout the development of this project. 
     * Several sections were flagged as a warning by the HTML validator because the were missing headings. I ignore these because I didn’t consider this a major issue.
 
 
-
-
 # 9. Deployment
 Web Syntax was developed in VS Code and I used Git for version control on my local server. It was later pushed into a repository on GitHub. The website was deployed both on GitHub Pages and my own personal domain. The steps taken for deployment are as follows;
 
@@ -231,7 +232,7 @@ Web Syntax was developed in VS Code and I used Git for version control on my loc
 1.	Type Scale - https://type-scale.com/
 2.	Google Fonts - https://fonts.google.com/
 
-## *10.9 Content*
+## *10.9 Text Content*
 The text in this project was taken from the following sources;
 
 * https://blog.hubspot.com/service/customer-satisfaction-quotes
