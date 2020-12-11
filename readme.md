@@ -232,3 +232,11 @@ Web Syntax was developed in VS Code and I used Git for version control on my loc
 2.	Google Fonts - https://fonts.google.com/
 
 ## *10.9 Content*
+The text in this project was taken from the following sources;
+
+* https://blog.hubspot.com/service/customer-satisfaction-quotes
+* https://www.cleveroad.com/services/web-development
+* https://www.statecreative.com/web-design-agency/
+* https://dealdesign.com/?utm_source=clutch.co&utm_medium=referral
+* https://www.eleken.co/ui-ux-design
+
