@@ -124,6 +124,7 @@ The use of semantic HTML was deemed critical from the outset.  This was to provi
 * Bootstrap
 * Git
 * Google Maps API
+* Now4real CDN
 
 # 7. Testing
 
