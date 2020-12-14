@@ -44,6 +44,7 @@ a.nav-link.hover {
   margin: 0 .5rem;
   color: var(--color-6) !important;
   text-decoration: none;
+  font-size: 1rem;
   padding: 0 !important;
   letter-spacing: 2px;
 }
