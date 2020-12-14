@@ -599,7 +599,7 @@ p.t-p {
 @media only screen and (max-width: 1550px) {
      /* ----------General---------- */
      .site {
-        grid-template-rows: 50rem 31.25rem 43.75rem 21.875rem 46rem 56.25rem 68.75rem 10rem;
+        grid-template-rows: 67.5rem 31.25rem 43.75rem 21.875rem 46rem 56.25rem 68.75rem 10rem;
     }
 
     /* ----------Header---------- */
