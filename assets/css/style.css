@@ -177,7 +177,7 @@ a.nav-link.hover {
     grid-column: 2 / 4;
     grid-row: 1 / 2;
     width: 25rem;
-    margin: 5% 0 0 10%;
+    margin: 2% 0 0 10%;
 }
 
 .s2-ss3 {
@@ -1088,7 +1088,7 @@ p.t-p {
 @media only screen and (max-width: 620px) {
      /* ----------General---------- */
      .site {
-        grid-template-rows: 41.688rem 62.5rem 75rem 75rem 112.5rem 28.125rem 106.25rem 10rem;
+        grid-template-rows: 46rem 62.5rem 75rem 75rem 112.5rem 28.125rem 106.25rem 10rem;
     }
 
     /* ---------Header---------- */
