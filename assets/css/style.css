@@ -177,7 +177,7 @@ a.nav-link.hover {
     grid-column: 2 / 4;
     grid-row: 1 / 2;
     width: 25rem;
-    margin: 2% 0 0 10%;
+    margin: 30px 0 0 10%;
 }
 
 .s2-ss3 {
@@ -640,6 +640,11 @@ p.t-p {
         position: relative;
         width: 100%;
         overflow: hidden;
+    }
+    
+    .s2-ss2 {
+        width: 36rem;
+        margin: 7.5% 0 0 10%;
     }
 
     .s2-ss3, .s2-ss4 {
